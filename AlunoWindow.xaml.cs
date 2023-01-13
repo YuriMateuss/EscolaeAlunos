@@ -15,7 +15,6 @@ using System.Windows.Shapes;
 namespace EscolaApp
 {
     /// <summary>
-    /// Lógica interna para AlunoWindow.xaml
     /// </summary>
     public partial class AlunoWindow : Window
     {
